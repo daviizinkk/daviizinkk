@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Davi
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Roblox Development
+- 📫 How to reach me: Go to my youtube channel (@Daviizinkk)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Lua is my favourite language!
