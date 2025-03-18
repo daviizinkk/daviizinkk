@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Davi
+- 👋 Hi, I’m David
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Roblox Development
