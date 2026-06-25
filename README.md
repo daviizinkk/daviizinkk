@@ -1,5 +1,5 @@
 # hey, i'm daviiz 🧐
-he/him · luau dev · currently learning c++ (help)
+he/him · luau dev · currently learning c++ :)
 
 i've been programming for a while now (around 3 years) and i just looooove programming. Lately though i have been stepping away from luau (roblox ecosystem) and going more into low-level languages as well as learning Love2D.
 
